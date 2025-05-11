@@ -1,14 +1,26 @@
 # 🏆 SAP Olympic Dashboard (Southeast Asia Champion – 2012)
 
-> 🚀 1st Place Winner of the **Southeast Asia SAP BI/BO Dashboard Competition 2012**
+> 🚀 **1st Place Winner of the SAP BI/BO Southeast Asia Dashboard Competition**
 
-This project showcases the **SAP Olympic Dashboard**, a data-driven, interactive visualization built using **SAP BusinessObjects (BI/BO)** tools. The dashboard presents rich Olympic data in a dynamic, engaging format that transforms raw statistics into actionable insights.
+This project presents an award-winning **interactive Olympic Games dashboard** built using **SAP BusinessObjects (BI/BO) Dashboard xCelsius**. It visualizes historical Olympic data from **1996 to 2012**, offering users the ability to explore the games from various analytical perspectives.
 
-Developed by the **Teddy Brothers** (Hernando Ivan Teddy & Albert Prasetia Teddy) from **STMIK MDP & MDP Business School**, this project emerged as the **Southeast Asia Champion** among 150+ university teams from 6 countries.
+Created by the **Teddy Brothers** (Hernando Ivan Teddy & Albert Prasetia Teddy) from **STMIK MDP & MDP Business School**, this dashboard was crowned **Champion of Southeast Asia** among 150+ competing teams.
+
+📌 **Live Demo**: [View Dashboard Online](https://ndoteddy.github.io/ndo-sea-dashboard-sap-2012/)
 
 ---
 
-## 🥇 Competition Highlights
+## 📣 About the Competition
+
+> “All undergraduate students from tertiary institutions in Indonesia, Malaysia, The Philippines, Singapore, Thailand, and Vietnam were invited to participate. Each team had to create an interactive dashboard to analyze Olympic Games results from 1996–2012. Judging was based on **usefulness**, **usability**, **data quality**, and **documentation**.”
+> — [SAP Student Council Announcement](http://scn.sap.com/community/uac/student-council/blog/2012/07/24/apj-sap-dashboard-design-competition-2012-southeast-asia-sep-to-nov-2012)
+
+**Program:** SAP Dashboard xCelsius / Business Intelligence (BI/BO)
+**Dataset Size:** \~9,800 rows per page of Olympic data (spanning 1996–2012)
+
+---
+
+## 🥇 Southeast Asia Finalists
 
 | Country          | Team Name          | Institution                     | Department              |
 | ---------------- | ------------------ | ------------------------------- | ----------------------- |
@@ -20,40 +32,39 @@ Developed by the **Teddy Brothers** (Hernando Ivan Teddy & Albert Prasetia Teddy
 | 🇹🇭 Thailand    | XCSP               | Rangsit University              | Information Technology  |
 
 > 🏅 **Grand Winner**: Teddy Brothers (Indonesia)
-> 📅 Final Presentation: December 7, 2012
+> 📅 **Final Judging Date**: December 7, 2012
 
 ---
 
-## 📊 Project Overview
+## 📊 Dashboard Highlights
 
-The **Olympic Games** generate vast amounts of statistical data across sports, athletes, countries, and events. However, traditional reporting formats (news, spreadsheets, or static tables) often fail to engage users or reveal deeper insights.
+The Olympic Games produce vast amounts of data. This dashboard helps turn complex statistics into clear, meaningful visuals. Key features include:
 
-Using **SAP Dashboard Reporting Tools**, this project brings Olympic data to life with:
-
-* 📈 **Interactive visualizations**
-* 🧠 **Insight-driven data exploration**
-* 🖥️ **Integration with Microsoft Office**
-* 🌍 **Country-based performance analytics**
-* 🏃 **Athlete and medal breakdowns**
+* 🌐 Country-based medal performance
+* 🏋️ Sport-by-sport breakdown
+* 👥 Athlete highlights
+* 📈 Historical medal trends (1996–2012)
+* 💡 Insightful comparisons across years and regions
 
 ---
 
-## 📌 Technologies Used
+## 🧑‍💻 Technologies Used
 
-* SAP BusinessObjects Dashboards (Xcelsius)
-* Microsoft Excel (Data integration source)
+* **SAP BusinessObjects Dashboard (xCelsius)**
+* Microsoft Excel (data source)
 * SAP BI Suite
-* Basic Visual Scripting
+* Custom visual scripting
+* Integration with Microsoft Office
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-* SAP BI/BO Dashboard Development
-* Data Analysis & Visualization
-* Information Design & Storytelling
-* Analytical Thinking & Presentation
-* Real-time Reporting & Integration
+* Dashboard Design & Interactivity
+* Business Intelligence & Data Visualization
+* Data Cleaning & Modeling
+* Analytical Thinking
+* Presentation & Storytelling
 
 ---
 
@@ -70,31 +81,25 @@ Using **SAP Dashboard Reporting Tools**, this project brings Olympic data to lif
 ## 📸 Screenshots
 
 ```md
-![Olympic Dashboard Overview](./assets/dashboard-overview.png)
+![Olympic Dashboard Overview 1](./assets/1.jpeg)
+![Olympic Dashboard Overview 2](./assets/2.jpeg)
+![Olympic Dashboard Overview 3](./assets/3.jpeg)
+![Olympic Dashboard Overview 4](./assets/4.jpeg)
+![Olympic Dashboard Overview 5](./assets/5.jpeg)
 ```
 
 ---
 
-## 🧑‍💻 Authors
+## 🧑‍🤝‍🧑 Team Members
 
 **Hernando Ivan Teddy**
 **Albert Prasetia Teddy**
-
-🏫 **STMIK MDP & MDP Business School**
-📍 Indonesia
-
----
-
-## 🏅 Recognition
-
-> “These 6 champions beat 150+ teams across Southeast Asia to emerge as champions in their respective countries.
-> The winner is... **Teddy Brothers!** 🎉”
-> — *SAP SEA Dashboard Competition Committee, 2012*
+🏫 STMIK MDP & MDP Business School — Indonesia
 
 ---
 
 ## 📜 License
 
-This project is shared for educational and historical showcase purposes.
-Commercial use of the dashboard or SAP tools may require proper licensing from SAP.
+This project is provided for **educational and showcase purposes only**.
+Please note: usage of SAP tools requires proper licensing from SAP.
 
