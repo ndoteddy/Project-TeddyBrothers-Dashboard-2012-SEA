@@ -98,8 +98,3 @@ The Olympic Games produce vast amounts of data. This dashboard helps turn comple
 
 ---
 
-## 📜 License
-
-This project is provided for **educational and showcase purposes only**.
-Please note: usage of SAP tools requires proper licensing from SAP.
-
