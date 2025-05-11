@@ -80,13 +80,13 @@ The Olympic Games produce vast amounts of data. This dashboard helps turn comple
 
 ## 📸 Screenshots
 
-```md
+
 ![Olympic Dashboard Overview 1](./assets/1.jpeg)
 ![Olympic Dashboard Overview 2](./assets/2.jpeg)
 ![Olympic Dashboard Overview 3](./assets/3.jpeg)
 ![Olympic Dashboard Overview 4](./assets/4.jpeg)
 ![Olympic Dashboard Overview 5](./assets/5.jpeg)
-```
+
 
 ---
 
